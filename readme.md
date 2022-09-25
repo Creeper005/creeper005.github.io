@@ -1,14 +1,2 @@
-<html>
-    <body>
-        <script>
-            document.write("自我介绍" + "</br>");
-            document.write("姓名：马润泽" + "</br>");
-            document.write("年龄：12" + "</br>");
-            document.write("当你看到这个自我介绍时就应该知道在电脑前敲JavaScript的我是什么爱好了" + "</br>");
-            document.write("还有..." + "</br>");
-            document.write("对于我来说辛辣的食物适合我" + "\n" + "awa" + "</br>");
-            document.write("想不出来该写点什么了qwq")
-            alert("看到这里还不在" + "\n" + "https://space.bilibili.com/610810017" + "关注？[doge]")
-        </script>
-    </body>
-</html>
+只是一个小学生up
+看到这里还不在 https://space.bilibili.com/610810017 关注？[doge]
